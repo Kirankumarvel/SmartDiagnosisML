@@ -56,10 +56,6 @@ SmartDiagnosisML is a machine learning project that compares the performance of 
    pip install -r requirements.txt
    ```
 
-3. Run the notebook or script:
-   ```bash
-   jupyter notebook SmartDiagnosisML.ipynb
-   ```
 
 ---
 
