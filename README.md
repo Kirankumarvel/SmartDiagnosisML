@@ -68,6 +68,25 @@ SmartDiagnosisML is a machine learning project that compares the performance of 
 ---
 
 ## 📸 Screenshots
+Original Feature Distribution & Noisy Feature Distribution
+![image](https://github.com/user-attachments/assets/aaa42a7b-9b76-48de-bfca-60dc48e90adf)
+Overlay Histogram- Mean Comp 
+![image](https://github.com/user-attachments/assets/4a20570f-a391-4e82-b2b4-c81aa7cdf75d)
+Overlay Histogram: Mean radius 
+![image](https://github.com/user-attachments/assets/ae9918b5-4e95-4f16-a696-4cd46ee605f0)
+Overlay Histogram: Mean compactness 
+![image](https://github.com/user-attachments/assets/050e637a-db4c-4dac-96f0-56781bf2f936)
+Overlay Histogram: radius error
+![image](https://github.com/user-attachments/assets/a5e6cb0a-3d59-4d7c-9039-82232ae9a3b1)
+Zoomed Scaled Feature Comparison (First 100 Samples)
+![image](https://github.com/user-attachments/assets/184cb7da-3e9f-413d-ad0c-811454b97963)
+Point-wise Comparison of Feature Values 
+![image](https://github.com/user-attachments/assets/348c1dd9-ea06-4c36-9078-356406afa679)
+Scatterplot: Original vs Noisy Feature 
+![image](https://github.com/user-attachments/assets/e0bcfbfc-56a5-41da-a240-87e076c64dbc)
+KNN Testing Confusion Matrix & SVM Testing Confusion Matrix
+![image](https://github.com/user-attachments/assets/c461cea9-09a0-4550-ab53-631a77ef5b0d)
+
 
 <p align="center"> 
   <img src="screenshots/histogram_comparison.png" width="45%"> 
