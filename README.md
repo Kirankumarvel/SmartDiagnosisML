@@ -98,17 +98,13 @@ Here is the formatted structure for the screenshots section:
 
 - **KNN Testing Confusion Matrix & SVM Testing Confusion Matrix**
   ![image](https://github.com/user-attachments/assets/c461cea9-09a0-4550-ab53-631a77ef5b0d)
-```
 
-
----
 
 ## 📄 License
 
 MIT License — feel free to use, modify, and contribute!
 
----
 
 ## 💬 Credits
 
-Created by Kiran Kumar  as part of an ML lab exercise.
+Created by Kiran Kumar as part of an ML lab exercise.
